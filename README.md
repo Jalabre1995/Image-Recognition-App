@@ -1,7 +1,7 @@
 # Image-Recognition-App
 The purpose of this project is to feed this app some photos and tell us what that image has.
 
-Dependencies
+# Dependencies
 To use ImageAI in your application developments, you must have installed the following dependencies before you install ImageAI :
 
 Python 3.5.1 (and later versions)
