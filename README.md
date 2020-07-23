@@ -1,5 +1,5 @@
 # Image-Recognition-App
-The purpose of this project is to feed this app some photos and tell us what that image has.
+The purpose of this project is to make an AI that is able to look at a image and determine what the image is. We live in an world where we are creating AI for autonomus driving, and facia recognition. As a user I want to use this application to test image facial recognition.
 
 # Dependencies
 To use ImageAI in your application developments, you must have installed the following dependencies before you install ImageAI :
