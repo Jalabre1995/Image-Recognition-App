@@ -1,5 +1,6 @@
 from imageai.Prediction import ImagePrediction
 import os
+import tensorflow 
 execution_path=os.getcwd()
 
 prediction = ImagePrediction()
